@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2545c9ff-871c-4bb8-bff3-dde06258d3c7)
+
+
 # Random-Cat-Image-Viewer
 This project fetches a random cat image from The [Cat API](https://thecatapi.com/) and displays it in a window using Pygame. The program retrieves a random image URL from the API and loads it in a Pygame window for you to enjoy.
 
